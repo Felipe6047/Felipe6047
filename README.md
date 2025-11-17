@@ -1,7 +1,7 @@
 ## Hi there 👋
-Sou **Felipe Ferreira**, estou cursando **Técnico em Informática**, gosto de jogos e animes. Atualmente, estou num projeto com meus colegas na criação de um jogo.
+My name is **Felipe Ferreira**, I am studying **Computer Technician**, and I enjoy games and anime. Currently, I am working on a game development project with my classmates.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,robloxstudio,discord,blender,py,ubuntu,bootstrap,git,)](https://skillicons.dev)
 
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe6047&layout=compact)](https://github.com/Felipe6047/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe6047&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  

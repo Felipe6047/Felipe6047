@@ -1,5 +1,5 @@
 ## Hi there 👋
-"My name is **Felipe Ferreira**. I am a** game developer** studying **Computer Technician**. I enjoy games and anime. Currently, I am working on a game development project with my classmates
+"My name is **Felipe Ferreira**. I am a **game developer** studying **Computer Technician**. I enjoy games and anime. Currently, I am working on a game development project with my classmates
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,robloxstudio,lua,discord,blender,godot,ubuntu,bootstrap,git,)](https://skillicons.dev)
 

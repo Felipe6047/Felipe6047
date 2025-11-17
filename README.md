@@ -3,9 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
 
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Baranowski&layout=compact)](https://github.com/Eduardo-Baranowski/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Baranowski&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe6047&layout=compact)](https://github.com/Felipe6047/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe6047&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
  | ----------- | ----------- |  
-
 <!--
 **Felipe6047/Felipe6047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

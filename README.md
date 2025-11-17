@@ -1,4 +1,5 @@
 ## Hi there 👋
+Sou **Felipe Ferreira**, estou cursando **Técnico em Informática**, gosto de jogos e animes. Atualmente, estou num projeto com meus colegas na criação de um jogo.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
